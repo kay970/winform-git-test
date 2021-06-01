@@ -1,0 +1,13 @@
+C:\Project Files\KEPServerEX\KEPServerEX\bin\Debug\KEPServerEX.exe.config
+C:\Project Files\KEPServerEX\KEPServerEX\bin\Debug\KEPServerEX.exe
+C:\Project Files\KEPServerEX\KEPServerEX\bin\Debug\KEPServerEX.pdb
+C:\Project Files\KEPServerEX\KEPServerEX\bin\Debug\SunnyUI.Common.dll
+C:\Project Files\KEPServerEX\KEPServerEX\bin\Debug\SunnyUI.dll
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.Form1.resources
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.Properties.Resources.resources
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.csproj.GenerateResource.cache
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.csproj.CoreCompileInputs.cache
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.csproj.CopyComplete
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.exe
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.pdb
+C:\Project Files\KEPServerEX\KEPServerEX\obj\Debug\KEPServerEX.FHeaderMainFooter.resources
